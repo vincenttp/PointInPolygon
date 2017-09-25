@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PointInPolygon</string>
+
+    <string name="gmaps_key">AIzaSyAlF1O-MaiXW5nhihzXkZi1DjqDcM2-xDs</string>
+</resources>
